@@ -75,5 +75,9 @@ gcloud run deploy SERVICE_NAME \
 ### Documentation
 Go to /docs to see swagger api documentation
 
+### Architecture Diagram
+
+<img src="assets/Diagram.svg" alt="diagram" width="500" height="500">
+
 Copyright (c) 2025 Oscar Gutierrez
 
